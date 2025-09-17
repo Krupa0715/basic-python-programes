@@ -1,0 +1,9 @@
+a=(10,20,30,40)
+b=[10,20,20,30]
+c={10,20,10,30}
+my_dict={'one':1}
+print(a)
+print(b)
+print(c)
+print(my_dict)
+
