@@ -1,0 +1,9 @@
+m=2
+n=6
+s=0
+if m>n:
+ pass
+else:
+    for i in range(m,n+1):
+        s=s+i**3
+print(s)
